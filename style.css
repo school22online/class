@@ -1,0 +1,71 @@
+body {
+    background-image: url("./images/17692708.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #fbffcc;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: 50px;
+    line-height: 50px;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #2a6c9b;
+}
+
+.menu-object {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: aquamarine;
+    padding-left: 162px;
+    padding-right: 165px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+}
+
+.menu-link:hover {
+    background-color: rgb(7, 145, 65);
+    transition: all .25s ease;
+}
+
+.heder {
+    color: #2a6c9b;
+    font-family: segoe print;
+}
+
+.people-list {
+    font-weight: 600;
+    color: #2a6c9b;
+}
+
+.homework-list {
+    font-weight: 600;
+    color: #2a6c9b;
+}
+
+.photo {
+    float: right;
+    margin: 1px 1px 1px 0;
+}
+
+.object-news {
+    color: #2a6c9b;
+    font-weight: 600;
+}
