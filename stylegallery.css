@@ -1,0 +1,96 @@
+body {
+    background-image: url("./images/1616964580_41-p-fon-dlya-saita-42.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.gallery-header {
+    font-size: 75px;
+    color: rgb(21, 165, 144);
+    padding-top: 50px;
+    margin-top: 0;
+    padding-right: 600px;
+    padding-left: 600px;
+    font-family: 'Caveat', cursive;
+    margin-bottom: 0px;
+}
+
+img {
+    border: 2px rgb(14, 123, 186) solid;
+}
+
+.img-one {
+    width: 300px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.img-two {
+    width: 500px;
+    height: 300px;
+    margin-left: 145px;
+}
+
+.img-three {
+    width: 300px;
+    height: 400px;
+    margin-left: 190px;
+}
+
+.img-four {
+    width: 300px;
+    height: 400px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+.img-five {
+    width: 300px;
+    height: 400px;
+    margin-left: 185px;
+}
+
+.img-six {
+    width: 500px;
+    height: 300px;
+    margin-left: 150px;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: 50px;
+    line-height: 50px;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #2a6c9b;
+}
+
+.menu-object {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: aquamarine;
+    padding-left: 161px;
+    padding-right: 161.5px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+}
+
+.menu-link:hover {
+    background-color: rgb(7, 145, 65);
+    transition: all .35s ease;
+}
