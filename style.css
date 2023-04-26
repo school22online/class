@@ -1,5 +1,5 @@
 body {
-    background-image: url("./images/17692708.webp");
+    background-image: url("./images/1616569432_16-p-obichnii-fon-20.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -7,8 +7,6 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-color: #fbffcc;
-    z-index: 1;
     margin: 0;
     padding: 0;
 }
@@ -42,7 +40,7 @@ body {
 
 .menu-link:hover {
     background-color: rgb(7, 145, 65);
-    transition: all .25s ease;
+    transition: all .35s ease;
 }
 
 .heder {
@@ -60,10 +58,6 @@ body {
     color: #2a6c9b;
 }
 
-.photo {
-    float: right;
-    margin: 1px 1px 1px 0;
-}
 
 .object-news {
     color: #2a6c9b;
