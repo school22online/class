@@ -1,0 +1,44 @@
+body {
+    background-image: url("./images/imgpreview.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: 50px;
+    line-height: 50px;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #2a6c9b;
+}
+
+.menu-object {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: aquamarine;
+    padding-left: 163px;
+    padding-right: 164px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+}
+
+.menu-link:hover {
+    background-color: rgb(7, 145, 65);
+    transition: all .35s ease;
+}
